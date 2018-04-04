@@ -1,2 +1,5 @@
 [jenkins]
 localhost ansible_connection=local
+
+[rulechains]
+rulechainsservice ansible_connection=docker
