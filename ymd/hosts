@@ -1,0 +1,23 @@
+[git]
+git.yourmessagedelivered.com
+
+[nomad_server]
+dessalines012
+
+[nomad_client]
+dessalines012
+
+[consul_server]
+dessalines012
+
+# [consul_client]
+# dessalines021
+
+[haproxy]
+dessalines012
+
+[keepalived]
+dessalines012
+
+[certtool]
+dessalines012

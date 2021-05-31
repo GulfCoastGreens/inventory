@@ -1,0 +1,17 @@
+[nomad_client]
+beebox
+jamacer
+jamdb
+charlottepc
+
+[nomad_server]
+jamacer
+
+[consul_client]
+jamacer
+jamdb
+charlottepc
+
+[consul_server]
+beebox
+
