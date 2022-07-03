@@ -2,7 +2,8 @@
 beebox
 jamacer
 jamdb
-charlottepc
+indpc
+music
 
 [nomad_server]
 jamacer
@@ -10,8 +11,11 @@ jamacer
 [consul_client]
 jamacer
 jamdb
-charlottepc
+indpc
+music
 
 [consul_server]
 beebox
 
+[nexus]
+ymdreg01
