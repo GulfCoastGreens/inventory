@@ -1,0 +1,5 @@
+nexus:
+  domain: '*.apps.yourmessagedelivered.com'
+  path: 'apps.yourmessagedelivered.com'
+  host: 'registry.apps.yourmessagedelivered.com'
+  email: 'hesco@yourmessagedelivered.com'    

@@ -1,0 +1,5 @@
+nexus:
+  domain: '*.jamjon3.sytes.net'
+  path: 'jamjon3.sytes.net'
+  host: 'registry.jamjon3.sites.net'
+  email: 'jamjon3@gmail.com'
