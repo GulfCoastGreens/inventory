@@ -2,3 +2,11 @@ ansible_host: 192.168.1.30
 ansible_user: jamjon3
 dns_domains:
   - registry.apps.yourmessagedelivered.com
+consul_settings:
+  ttl:
+    ca: 
+      days: 3650
+    intermediate:
+      hours: 87600h
+    leaf:
+      hours: 72h

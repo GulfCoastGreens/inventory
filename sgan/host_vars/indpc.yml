@@ -2,3 +2,11 @@ ansible_host: 192.168.1.27
 ansible_user: jam
 dns_domains:
   - nexus.jamjon3.sytes.net
+consul_settings:
+  ttl:
+    ca: 
+      days: 3650
+    intermediate:
+      hours: 87600h
+    leaf:
+      hours: 72h
