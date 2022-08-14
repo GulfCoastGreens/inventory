@@ -5,7 +5,8 @@ git.yourmessagedelivered.com
 dessalines012
 
 [nomad_client]
-dessalines012
+ymdnmc01.yourmessagedelivered.com
+# dessalines012
 
 [consul_server]
 dessalines012
@@ -24,3 +25,10 @@ dessalines012
 
 [nexus]
 ymdreg01
+
+[proxy]
+ymdproxy01.yourmessagedelivered.com
+
+[proxy_vip]
+ymdproxy.yourmessagedelivered.com
+
